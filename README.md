@@ -1,6 +1,8 @@
+
+![Profile Banner ](https://github.com/Isninos/Isninos/blob/main/Isnino%20Shukri.png) 
 ### Hi there 👋, my name is Isnino S. 
-#### DEI Program Manager 
-I have over five years of experience developing, leading, and supporting student success programs. I am passionate about equity and inclusion work. 
+
+I have over five years of experience developing, leading, and supporting student success programs. I am very passionate about equity and inclusion work. Data is cool too!!
 
 Skills: Excel/Python/SQL
 
