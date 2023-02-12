@@ -1,4 +1,4 @@
-![Profile Banner](https://github.com/Isninos/Isninos/blob/main/Isnino%20Shukri%20(1).png) 
+![Profile Banner](https://github.com/Isninos/Isninos/blob/411574f6911e748340a8eaaa4bf7dbd80899c704/Isnino%20Shukri.png) 
 ### Hi there 👋, my name is Isnino S. 
 
 I have over five years of experience developing, leading, and supporting student success programs. I am very passionate about equity and inclusion work. Data is cool too!!
